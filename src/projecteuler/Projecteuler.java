@@ -6,6 +6,7 @@ package projecteuler;
  */
 public class Projecteuler {
     public static void main(String[] args) {
+        //Davicho line 
                  multiplesOf3And5();
                 evenFibonacciNumbers();
     }
